@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "valvula-1",
+    "open": false,
+    "quantity": 20    
+  },
+  {
+    "id": "2",
+    "name": "valvula-2",
+    "open": true,
+    "quantity": 60
+  },
+  {
+    "id": "3",
+    "name": "valvula-3",
+    "open": true,
+    "quantity": 30    
+  }
+]
